@@ -58,4 +58,5 @@ Not Implemented
 * guarana
 * cranberries
 * gensing
+* tobacco
 
