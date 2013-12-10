@@ -4,6 +4,7 @@ morecrops = {}
 
 dofile(modpath.."/croplist.lua")
 dofile(modpath.."/annuals.lua")
+dofile(modpath.."/grains.lua")
 
 
 for i in ipairs(morecrops.crops) do
@@ -13,6 +14,8 @@ for i in ipairs(morecrops.crops) do
 	
 	if type == "annual" then
 		morecrops.register_annual(morecrops.crops[i])
+	elseif type == "grain" then
+		morecrops.register_grain(morecrops.crops[i])
 	end
 	
 	
