@@ -57,7 +57,7 @@ Not Implemented
 * coffee
 * guarana
 * cranberries
-* gensing
+* ginsing
 * tobacco
 * sorghum
 * sugar cane

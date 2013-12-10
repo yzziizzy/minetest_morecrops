@@ -39,6 +39,7 @@ morecrops.crops = {
 	{type="perrenial", name="ghostchili", description="Ghost Chili", seasons={2,4},--[[ all climates ]]},
 	{type="perrenial", name="pineapple", description="Pineapple", seasons={2,4},--[[ all climates ]]},
 	{type="perrenial", name="cranberry", description="Cranberry", seasons={infinite},--[[ all climates ]]},
+	{type="perrenial", name="nettle", description="Stinging Nettle", seasons={infinite},--[[ all climates ]]},
 
 		
 }
